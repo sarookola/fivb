@@ -1,0 +1,7516 @@
+{
+	"drawSettingS" : [{
+			"text1" : "Screen3",
+			"image" : "pictures\\back01.jpg",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+				"AnimateRate" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 1659,
+					"yRelative" : 725,
+					"widthRelative" : 1264,
+					"heightRelative" : 713,
+					"startsAccceleration" : 0,
+						"endAccceleration" : 0,
+					"strokC" : {
+						"value" : -13421773,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -13421773,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 1,
+			"childs" : [],
+			"margin" : 1
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 500,
+					"yRelative" : 500,
+					"widthRelative" : 1000,
+					"heightRelative" : 1000,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 1,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : [4]
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : [6]
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "crunch-add-bot-in",
+			"image" : "pictures\\CRUNCH_add_bottom.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -180,
+					"yRelative" : 58,
+					"widthRelative" : 338,
+					"heightRelative" : 168,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}, {
+					"xRelative" : 124,
+					"yRelative" : 58,
+					"widthRelative" : 338,
+					"heightRelative" : 168,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [31]
+		}, {
+			"text1" : "crunch-add-bot-out",
+			"image" : "pictures\\CRUNCH_add_bottom.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 124,
+					"yRelative" : 58,
+					"widthRelative" : 338,
+					"heightRelative" : 168,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}, {
+					"xRelative" : -180,
+					"yRelative" : 58,
+					"widthRelative" : 338,
+					"heightRelative" : 168,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [32]
+		}, {
+			"text1" : "crunch-add-top-in",
+			"image" : "pictures\\CRUNCH_add_top.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -140,
+					"yRelative" : -110,
+					"widthRelative" : 298,
+					"heightRelative" : 166,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}, {
+					"xRelative" : 148,
+					"yRelative" : -110,
+					"widthRelative" : 298,
+					"heightRelative" : 166,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [33]
+		}, {
+			"text1" : "crunch-add-top-OUT",
+			"image" : "pictures\\CRUNCH_add_top.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 148,
+					"yRelative" : -110,
+					"widthRelative" : 298,
+					"heightRelative" : 166,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}, {
+					"xRelative" : -140,
+					"yRelative" : -110,
+					"widthRelative" : 298,
+					"heightRelative" : 166,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [34]
+		}, {
+			"text1" : "BOT_text-in",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -140,
+					"yRelative" : 50,
+					"widthRelative" : 250,
+					"heightRelative" : 100,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15790256,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}, {
+					"xRelative" : 124,
+					"yRelative" : 50,
+					"widthRelative" : 250,
+					"heightRelative" : 100,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15790256,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [35]
+		}, {
+			"text1" : "BOT text out",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 124,
+					"yRelative" : 50,
+					"widthRelative" : 250,
+					"heightRelative" : 100,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15790256,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}, {
+					"xRelative" : -140,
+					"yRelative" : 50,
+					"widthRelative" : 250,
+					"heightRelative" : 100,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15790256,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [36]
+		}, {
+			"text1" : "top_text-in",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -130,
+					"yRelative" : -116,
+					"widthRelative" : 250,
+					"heightRelative" : 100,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15790256,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}, {
+					"xRelative" : 140,
+					"yRelative" : -116,
+					"widthRelative" : 250,
+					"heightRelative" : 100,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15790256,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "TOP TECHNICALTEXT -OUT",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 140,
+					"yRelative" : -116,
+					"widthRelative" : 250,
+					"heightRelative" : 100,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15790256,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}, {
+					"xRelative" : -130,
+					"yRelative" : -116,
+					"widthRelative" : 250,
+					"heightRelative" : 100,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15790256,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 8
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "crunch_pBp_in",
+			"image" : "Sequence\\Play_by_Play_in\\Play_by_Play_in_00000.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : true,
+			"sequencCount" : 24,
+			"drawinGObject" : [{
+					"xRelative" : 173,
+					"yRelative" : -45,
+					"widthRelative" : 1200,
+					"heightRelative" : 514,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [49]
+		}, {
+			"text1" : "crunch_pBp_out",
+			"image" : "Sequence\\Play_by_Play_out\\Play_by_Play_out_00000.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : true,
+			"sequencCount" : 23,
+			"drawinGObject" : [{
+					"xRelative" : 173,
+					"yRelative" : -45,
+					"widthRelative" : 1200,
+					"heightRelative" : 514,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [50]
+		}, {
+			"text1" : "CRUNCH_expand",
+			"image" : "Sequence\\WL_CRUNCH_expand\\WL_CRUNCH_expand_00000.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : true,
+			"sequencCount" : 18,
+			"drawinGObject" : [{
+					"xRelative" : 0,
+					"yRelative" : 0,
+					"widthRelative" : 1000,
+					"heightRelative" : 1000,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [51]
+		}, {
+			"text1" : "CRUNCH_contrac",
+			"image" : "Sequence\\WL_CRUNCH_contract\\WL_CRUNCH_contract_00000.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : true,
+			"sequencCount" : 18,
+			"drawinGObject" : [{
+					"xRelative" : 0,
+					"yRelative" : 0,
+					"widthRelative" : 1000,
+					"heightRelative" : 1000,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [52]
+		}, {
+			"text1" : "crunch_in_master",
+			"image" : "Sequence\\wl_crunch_in\\wl_crunch_in_0000.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : true,
+			"sequencCount" : 24,
+			"drawinGObject" : [{
+					"xRelative" : 259,
+					"yRelative" : 162,
+					"widthRelative" : 521,
+					"heightRelative" : 322,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : [53]
+		}, {
+			"text1" : "crunch-out",
+			"image" : "Sequence\\wl_crunch_out\\wl_crunch_out_0000.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : true,
+			"sequencCount" : 23,
+			"drawinGObject" : [{
+					"xRelative" : 0,
+					"yRelative" : 0,
+					"widthRelative" : 1000,
+					"heightRelative" : 1000,
+					"strokC" : {
+						"value" : -13421773,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -13421773,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 53,
+			"childs" : [54]
+		}, {
+			"text1" : "\u003ecircel",
+			"image" : "pictures\\service.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -45,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 2
+				}, {
+					"xRelative" : -45,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}, {
+					"xRelative" : -45,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}, {
+					"xRelative" : -45,
+					"yRelative" : -110,
+					"widthRelative" : 39,
+					"heightRelative" : 104,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}, {
+					"xRelative" : -45,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 5
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "\u003ecircle",
+			"image" : "pictures\\service.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -45,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 2
+				}, {
+					"xRelative" : -45,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}, {
+					"xRelative" : -45,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}, {
+					"xRelative" : -45,
+					"yRelative" : 40,
+					"widthRelative" : 39,
+					"heightRelative" : 104,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}, {
+					"xRelative" : -45,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 5
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "IRN",
+			"image" : "pictures\\back01.jpg",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -270,
+					"yRelative" : -126,
+					"widthRelative" : 100,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -13421773,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -270,
+					"yRelative" : -96,
+					"widthRelative" : 100,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -13421773,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -270,
+					"yRelative" : -126,
+					"widthRelative" : 100,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -13421773,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "POL",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -270,
+					"yRelative" : 26,
+					"widthRelative" : 100,
+					"heightRelative" : 124,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -270,
+					"yRelative" : -3,
+					"widthRelative" : 100,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -270,
+					"yRelative" : 26,
+					"widthRelative" : 100,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 150,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "ind1",
+			"image" : "pictures\\CRUNCH_team_indicator_png.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -270,
+					"yRelative" : -100,
+					"widthRelative" : 30,
+					"heightRelative" : 60,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -335,
+					"yRelative" : -100,
+					"widthRelative" : 30,
+					"heightRelative" : 60,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "ind2",
+			"image" : "pictures\\CRUNCH_team_indicator_png.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -270,
+					"yRelative" : 27,
+					"widthRelative" : 30,
+					"heightRelative" : 60,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -335,
+					"yRelative" : 27,
+					"widthRelative" : 30,
+					"heightRelative" : 60,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "3",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -170,
+					"yRelative" : -132,
+					"widthRelative" : 72,
+					"heightRelative" : 125,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 12
+				}, {
+					"xRelative" : -170,
+					"yRelative" : -70,
+					"widthRelative" : 72,
+					"heightRelative" : 125,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -170,
+					"yRelative" : -126,
+					"widthRelative" : 72,
+					"heightRelative" : 125,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "3",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -170,
+					"yRelative" : 40,
+					"widthRelative" : 72,
+					"heightRelative" : 125,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 12
+				}, {
+					"xRelative" : -170,
+					"yRelative" : -20,
+					"widthRelative" : 72,
+					"heightRelative" : 125,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -170,
+					"yRelative" : 40,
+					"widthRelative" : 72,
+					"heightRelative" : 125,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "25",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -115,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 12
+				}, {
+					"xRelative" : -115,
+					"yRelative" : -80,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -115,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "25",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -115,
+					"yRelative" : 35,
+					"widthRelative" : 59,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 12
+				}, {
+					"xRelative" : -115,
+					"yRelative" : -50,
+					"widthRelative" : 59,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : -115,
+					"yRelative" : 35,
+					"widthRelative" : 59,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "69",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -115,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 2
+				}, {
+					"xRelative" : -115,
+					"yRelative" : -80,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -115,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "70",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -115,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 2
+				}, {
+					"xRelative" : -115,
+					"yRelative" : -20,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -115,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "71",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -30,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 4
+				}, {
+					"xRelative" : -30,
+					"yRelative" : -80,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -30,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "72",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -30,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 4
+				}, {
+					"xRelative" : -30,
+					"yRelative" : -20,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -30,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "73",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 48,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 6
+				}, {
+					"xRelative" : 48,
+					"yRelative" : -80,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 48,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "74",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 48,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 6
+				}, {
+					"xRelative" : 48,
+					"yRelative" : -20,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 48,
+					"yRelative" : 40,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "75",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 125,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 8
+				}, {
+					"xRelative" : 125,
+					"yRelative" : -80,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 125,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "76",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 125,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 8
+				}, {
+					"xRelative" : 125,
+					"yRelative" : -20,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 125,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "77",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15592880,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 200,
+					"yRelative" : -80,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15592880,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 200,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15592880,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "78",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15592880,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 200,
+					"yRelative" : -20,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15592880,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 200,
+					"yRelative" : 40,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -15592880,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-00",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -102,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 2
+				}, {
+					"xRelative" : -102,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -102,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-01",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -22,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 4
+				}, {
+					"xRelative" : -22,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -22,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-02",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 58,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 6
+				}, {
+					"xRelative" : 58,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 58,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-03",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 138,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 8
+				}, {
+					"xRelative" : 138,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 138,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-04",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 218,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 218,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 218,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-05",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 298,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 12
+				}, {
+					"xRelative" : 298,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 298,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-06",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 378,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 14
+				}, {
+					"xRelative" : 378,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 378,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-07",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 458,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 16
+				}, {
+					"xRelative" : 458,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 458,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-08",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 538,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 18
+				}, {
+					"xRelative" : 538,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 538,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-09",
+			"image" : "pictures\\WL_PBP_Upper_Tab copy.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -102,
+					"yRelative" : -131,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 99,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-00",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -102,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 2
+				}, {
+					"xRelative" : -102,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -102,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-01",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -22,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 4
+				}, {
+					"xRelative" : -22,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -22,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-02",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 58,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 6
+				}, {
+					"xRelative" : 58,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 58,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-03",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 138,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 5
+				}, {
+					"xRelative" : 138,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 138,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-04",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 218,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 218,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 218,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-05",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 298,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 12
+				}, {
+					"xRelative" : 298,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 298,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-06",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 378,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 14
+				}, {
+					"xRelative" : 378,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 378,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-07",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 458,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 16
+				}, {
+					"xRelative" : 458,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 458,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-08",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 538,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 18
+				}, {
+					"xRelative" : 538,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 20,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 538,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-09",
+			"image" : "pictures\\WL_PBP_Lower_Tab.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -102,
+					"yRelative" : 55,
+					"widthRelative" : 78,
+					"heightRelative" : 174,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 105,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-0",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -104,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -3355393,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 12
+				}, {
+					"xRelative" : -104,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -3355393,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -104,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -3355393,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-1",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -25,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 14
+				}, {
+					"xRelative" : -25,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -25,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 55,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 16
+				}, {
+					"xRelative" : 55,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 55,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-3",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 135,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 18
+				}, {
+					"xRelative" : 135,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 135,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-4",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 215,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 20
+				}, {
+					"xRelative" : 215,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 215,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-5",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 295,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 22
+				}, {
+					"xRelative" : 295,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 295,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-6",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 375,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 24
+				}, {
+					"xRelative" : 375,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 375,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-7",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 455,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 26
+				}, {
+					"xRelative" : 455,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 455,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-8",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 535,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 28
+				}, {
+					"xRelative" : 535,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 535,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_top-text-9",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -25,
+					"yRelative" : -131,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 86,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-0",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -104,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 12
+				}, {
+					"xRelative" : -104,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -104,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-1",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -25,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 14
+				}, {
+					"xRelative" : -25,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : -25,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 55,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 6
+				}, {
+					"xRelative" : 55,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 55,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-3",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 135,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 18
+				}, {
+					"xRelative" : 135,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 135,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-4",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 215,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 20
+				}, {
+					"xRelative" : 215,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 215,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-5",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 295,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 22
+				}, {
+					"xRelative" : 295,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 295,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-6",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 375,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 24
+				}, {
+					"xRelative" : 375,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 375,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-7",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 455,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 26
+				}, {
+					"xRelative" : 455,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 455,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-8",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 535,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 28
+				}, {
+					"xRelative" : 535,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 535,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "pbp_bot-text-9",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -104,
+					"yRelative" : 45,
+					"widthRelative" : 70,
+					"heightRelative" : 130,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -6710785,
+						"falpha" : 0.0
+					},
+					"opac" : 133,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "26",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 612,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 25
+				}, {
+					"xRelative" : 612,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 612,
+					"yRelative" : -130,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777114,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "16",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : true,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 612,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 25
+				}, {
+					"xRelative" : 612,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 612,
+					"yRelative" : 35,
+					"widthRelative" : 60,
+					"heightRelative" : 127,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -16777114,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "circle1-3",
+			"image" : "pictures\\service.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 680,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 25
+				}, {
+					"xRelative" : 680,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 680,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 25
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "circle2-3",
+			"image" : "pictures\\service.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 680,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 25
+				}, {
+					"xRelative" : 680,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 680,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "circle1-2",
+			"image" : "pictures\\service.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 270,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : 270,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 270,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 15
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "circle2-2",
+			"image" : "pictures\\service.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 270,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 15
+				}, {
+					"xRelative" : 270,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 0,
+					"frames" : 10
+				}, {
+					"xRelative" : 270,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 10
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "circle1-0",
+			"image" : "pictures\\service.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -45,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}, {
+					"xRelative" : -45,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}, {
+					"xRelative" : -45,
+					"yRelative" : -110,
+					"widthRelative" : 39,
+					"heightRelative" : 104,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 5
+				}, {
+					"xRelative" : -45,
+					"yRelative" : -110,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "circle2-0",
+			"image" : "pictures\\service.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : -45,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}, {
+					"xRelative" : -45,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}, {
+					"xRelative" : -45,
+					"yRelative" : 40,
+					"widthRelative" : 39,
+					"heightRelative" : 104,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 5
+				}, {
+					"xRelative" : -45,
+					"yRelative" : 40,
+					"widthRelative" : 30,
+					"heightRelative" : 80,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 3
+				}
+			],
+			"linkTo" : 53,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}, {
+			"text1" : "Empty2",
+			"image" : "pictures\\shayantest.png",
+			"imagevisiblity" : false,
+			"textvisiblity" : false,
+			"textFvisiblity" : false,
+			"imageSequency" : false,
+			"sequencCount" : 0,
+			"drawinGObject" : [{
+					"xRelative" : 200,
+					"yRelative" : 200,
+					"widthRelative" : 250,
+					"heightRelative" : 250,
+					"strokC" : {
+						"value" : -16777216,
+						"falpha" : 0.0
+					},
+					"textC" : {
+						"value" : -1,
+						"falpha" : 0.0
+					},
+					"opac" : 255,
+					"frames" : 0
+				}
+			],
+			"linkTo" : 0,
+			"childs" : []
+		}
+	],
+	"font" : "Frutiger CE 55 Roman",
+	"strok" : 0,
+	"backcolor" : {
+		"value" : -16728576,
+		"falpha" : 0.0
+	},
+	"path" : "FivbSetting.json",
+	"selectedItem" : 0
+}
